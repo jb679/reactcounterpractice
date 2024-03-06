@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/reactcounterpractice/static/css/main.83cca4f1.css",
+    "main.js": "/reactcounterpractice/static/js/main.5ad3ec00.js",
+    "index.html": "/reactcounterpractice/index.html",
+    "main.83cca4f1.css.map": "/reactcounterpractice/static/css/main.83cca4f1.css.map",
+    "main.5ad3ec00.js.map": "/reactcounterpractice/static/js/main.5ad3ec00.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83cca4f1.css",
+    "static/js/main.5ad3ec00.js"
+  ]
+}
